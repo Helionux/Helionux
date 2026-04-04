@@ -59,9 +59,12 @@ Quick stats & visual badges:
 - Following: **203**
 
 Badges & cards:
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=helionux&show_icons=true&locale=en&layout=compact" alt="helionux" /></p>
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Helionux&show_icons=true&theme=default)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Helionux&layout=compact&theme=default)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helionux&show_icons=true&locale=en" alt="helionux" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helionux&" alt="helionux" /></p>
+
 - ![Followers](https://img.shields.io/github/followers/Helionux?label=Followers&style=for-the-badge)
 - ![Public Repos](https://img.shields.io/badge/Public%20Repos-50-blue?style=for-the-badge)
 
@@ -69,19 +72,7 @@ Badges & cards:
 
 ---
 
-Recent GitHub events (latest):
 
-- Push to [Helionux/Helionux](https://github.com/Helionux/Helionux) — refs/heads/main (2026-04-04T20:12:01Z)
-- Push to [Helionux/Helionux](https://github.com/Helionux/Helionux) — refs/heads/main (2026-04-04T20:08:07Z)
-- Push to [Helionux/Helionux](https://github.com/Helionux/Helionux) — refs/heads/main (2026-04-04T19:57:06Z)
-- Push to [Helionux/Helionux](https://github.com/Helionux/Helionux) — refs/heads/main (2026-04-04T19:51:39Z)
-- Created branch `main` on [Helionux/Helionux](https://github.com/Helionux/Helionux) (2026-04-04T19:20:17Z)
-- Push to [Helionux/la-fourche](https://github.com/Helionux/la-fourche) — refs/heads/main (2026-03-28T11:21:45Z)
-- Created branch `main` on [Helionux/la-rose-sucree](https://github.com/Helionux/la-rose-sucree) (2026-03-26T14:36:40Z)
-
-For full activity, visit: https://github.com/Helionux
-
----
 
 ## 📈 Activity
 
