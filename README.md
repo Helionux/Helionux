@@ -63,7 +63,7 @@ Badges & cards:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helionux&show_icons=true&locale=en" alt="helionux" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=helionux&" alt="helionux" /></p>
-
+<p><img align="[center" src="https://github-readme-streak-stats.herokuapp.com/?user=helionux&](https://www.credly.com/badges/4e8d5d7b-35ac-4f02-aa8e-f465a99acfa7/public_url)" alt="helionux" /></p>
 - ![Followers](https://img.shields.io/github/followers/Helionux?label=Followers&style=for-the-badge)
 - ![Public Repos](https://img.shields.io/badge/Public%20Repos-50-blue?style=for-the-badge)
 
