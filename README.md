@@ -58,7 +58,7 @@ Quick stats & visual badges:
 - Following: **203**
 
 Badges & cards:
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e8d5d7b-35ac-4f02-aa8e-f465a99acfa7" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e8d5d7b-35ac-4f02-aa8e-f465a99acfa7" data-share-badge-host="https://www.credly.com">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helionux&show_icons=true&locale=en" alt="helionux" /></p>
 
