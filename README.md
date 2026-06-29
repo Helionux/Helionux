@@ -59,6 +59,7 @@ Quick stats & visual badges:
 
 Badges & cards:
 <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="4e8d5d7b-35ac-4f02-aa8e-f465a99acfa7" data-share-badge-host="https://www.credly.com">
+[![committers.top badge](https://user-badge.committers.top/chad_private/Helionux.svg)](https://user-badge.committers.top/chad_private/Helionux)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=helionux&show_icons=true&locale=en" alt="helionux" /></p>
 
