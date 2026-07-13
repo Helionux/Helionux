@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Deoule-Allah%20Madjitoloum%20Heliodore&desc=Dévéloppeur%20Web%20FullStack%20MERN&fontAlignY=41&animation=fadeIn&reversal=false&fontSize=40&strokeWidth=0&descSize=26&stroke=4)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Deoule-Allah%20Madjitoloum%20Heliodore&desc=FullStack%20Developer%20MERN&fontAlignY=41&animation=fadeIn&reversal=false&fontSize=40&strokeWidth=0&descSize=26&stroke=6)
 
 
 <div align="center">
